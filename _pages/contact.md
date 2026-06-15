@@ -7,29 +7,21 @@ redirect_from:
   - /markdown.html
 ---
 
-## 💬 Ask me about ## 
-* My Academic Development
-* My Research
-* anything else...
+If you have any questions regarding my research, teaching, or the **ULMA Initiative**, please feel free to reach out. 
 
-## 📫 How to reach me: ## 
+### **Office Location**
+*   **Office:** Room 1.28
+*   **Institution:** Institute of Economics, Ulm University
+*   **Address:** Helmholtzstraße 18, 89081 Ulm, Germany
 
-<!---
-<address>
-Luca Cermak <br /> Mündelstraße 29 <br /> 89171 Illerkirchberg <br /> Baden-Württemberg <br /> Germany <br />
-</address>
-<br />
--->
+### **Direct Contact**
+*   **Email:** [luca.cermak@uni-ulm.de](mailto:luca.cermak@uni-ulm.de)
+*   **Phone:** +49 731 50-23738
 
-<address>
-Luca David Cermak <br /> 
-Ulm University <br /> 
-Institute for Economics, Office 1.28 <br /> <br /> 
-Helmholtzstraße 18 <br /> 
-89081 Ulm <br /> 
-Baden-Württemberg <br /> 
-Germany <br /> 
-</address>
-
-
-📧 luca.cermak@uni-ulm.de
+### **Mailing Address**
+Ulm University  
+Institute of Economics  
+Attn: Luca Cermak  
+Helmholtzstraße 18  
+89081 Ulm  
+Germany

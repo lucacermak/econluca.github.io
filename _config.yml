@@ -11,9 +11,9 @@ title                    : "Luca Cermak"
 title_separator          : "-"
 name                     : &name "Luca Cermak"
 description              : &description "This is my personal github website."
-url                      : https://econluca.github.io 
+url                      : https://lucacermak.github.io 
 baseurl                  : "" 
-repository               : "econluca.github.io"
+repository               : "lucacermak.github.io"
 teaser                   : "luca-cermak.1024x1024.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "EconLuca"
+  github           : "LucaCermak"
   google_plus      :
   keybase          :
   instagram        : 

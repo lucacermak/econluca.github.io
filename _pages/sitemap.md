@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <address>
-dott.mag. Luca David Cermak, M.Sc. <br /> 
+Luca  Cermak <br /> 
 Ulm University <br /> 
 Institute for Economics, Office 1.28 <br /> <br /> 
 Helmholtzstraße 18 <br /> 
@@ -383,7 +383,7 @@ If you have questions or comments about this notice, you may email us at luca.ce
   
 
 <address>
-Luca David Cermak, B.Sc. B.Sc. <br /> Mündelstraße 29 <br /> 89171 Illerkirchberg <br /> Baden-Württemberg <br /> Germany <br />
+Luca Cermak <br /> Helmholtzstraße 18 <br /> 89081 Ulm <br /> Baden-Württemberg <br /> Germany <br />
 </address>
 
   
